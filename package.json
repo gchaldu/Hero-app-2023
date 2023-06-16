@@ -8,6 +8,7 @@
     "build": "vite build",
     "preview": "vite preview"
   },
+  "homepage": "https://github.com/gchaldu/Hero-app-2023.git",
   "dependencies": {
     "query-string": "^7.1.1",
     "react": "^18.0.0",
